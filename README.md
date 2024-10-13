@@ -1,3 +1,5 @@
+# Akademia Tarnowska
+
 # Projekt z przedmiotu: Zaawansowane Programowanie Systemów Inteligentnych
 
 ## Tytuł projektu: **System wykrywania kierunku źródła dźwięku**
@@ -51,3 +53,16 @@ Celem projektu było stworzenie systemu, który na podstawie analizy dźwięku z
    Strzałka, reprezentująca kierunek dźwięku, rysowana jest na wyświetlaczu TFT. Jej orientacja zmienia się dynamicznie w zależności od kierunku źródła dźwięku.
 
 ---
+
+## Autorzy
+- Karol Nowak
+  -numer albumu: 36782
+
+-Krystian Wiatr
+   -numer albumu: 36415
+
+-Bartłomiej Blady
+   -numer albumu: 36362
+
+-Oskar Dąbrowski
+   -numer albumu: 36369
