@@ -55,12 +55,15 @@ Celem projektu było stworzenie systemu, który na podstawie analizy dźwięku z
 ---
 
 ## Autorzy
-- Karol Nowak
-  -numer albumu: 36782
--Krystian Wiatr
-   -numer albumu: 36415
--Bartłomiej Blady
-   -numer albumu: 36362
--Oskar Dąbrowski
-   -numer albumu: 36369
+
+- Karol Nowak  
+  *Numer albumu:* 36782
+- Krystian Wiatr  
+  *Numer albumu:* 36415
+- Bartłomiej Blady  
+  *Numer albumu:* 36362
+- Oskar Dąbrowski  
+  *Numer albumu:* 36369
+
 ---
+
