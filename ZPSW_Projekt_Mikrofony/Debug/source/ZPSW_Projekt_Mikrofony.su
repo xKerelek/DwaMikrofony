@@ -1,0 +1,7 @@
+D:\Programowanie\MCUXpresso\ZPSW_Projekt_Mikrofony\drivers/fsl_powerquad.h:1761:20:PQ_WaitDone	16	static
+D:\Programowanie\MCUXpresso\ZPSW_Projekt_Mikrofony\LPC55S69\drivers/fsl_power.h:385:20:POWER_DisablePD	16	static
+../source/ZPSW_Projekt_Mikrofony.c:53:6:ADC0_IRQHandler	8	static
+../source/ZPSW_Projekt_Mikrofony.c:71:6:generalized_cross_correlation_phat	32	static
+../source/ZPSW_Projekt_Mikrofony.c:114:5:compare_elements	32	static
+../source/ZPSW_Projekt_Mikrofony.c:122:6:drawArrow	80	static
+../source/ZPSW_Projekt_Mikrofony.c:143:5:main	56	static

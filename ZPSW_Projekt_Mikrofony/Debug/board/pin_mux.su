@@ -1,0 +1,4 @@
+D:\Programowanie\MCUXpresso\ZPSW_Projekt_Mikrofony\drivers/fsl_clock.h:722:20:CLOCK_EnableClock	24	static
+D:\Programowanie\MCUXpresso\ZPSW_Projekt_Mikrofony\drivers/fsl_iocon.h:255:22:IOCON_PinMuxSet	24	static
+../board/pin_mux.c:33:6:BOARD_InitBootPins	8	static
+../board/pin_mux.c:66:6:BOARD_InitPins	32	static

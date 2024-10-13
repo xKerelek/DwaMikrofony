@@ -1,0 +1,17 @@
+../source/lcd.c:140:6:LCD_7seg	56	static
+../source/lcd.c:166:6:LCD_7dot	36	static
+../source/lcd.c:178:6:SPI_Write_Byte	16	static
+../source/lcd.c:234:13:LCD_WriteData_8Bit	16	static
+../source/lcd.c:227:13:LCD_WriteReg	16	static
+../source/lcd.c:198:6:SPI_Write_Words	24	static
+../source/lcd.c:241:6:Driver_Delay_ms	8	static
+../source/lcd.c:342:6:LCD_SetHome	8	static
+../source/lcd.c:360:6:LCD_GramRefresh	8	static
+../source/lcd.c:392:6:LCD_Set_Bitmap	0	static
+../source/lcd.c:398:6:LCD_Set_Icon	24	static
+../source/lcd.c:408:6:LCD_Clear	0	static
+../source/lcd.c:367:6:LCD_Init	16	static
+../source/lcd.c:414:6:LCD_Draw_Point	0	static
+../source/lcd.c:419:6:LCD_Draw_Line	40	static
+../source/lcd.c:462:6:LCD_Puts	36	static
+../source/lcd.c:494:6:LCD_Draw_Circle	56	static
